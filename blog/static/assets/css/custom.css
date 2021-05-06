@@ -1,0 +1,11 @@
+body .breadcrumbs, body .share-buttons {
+    display: none;
+}
+
+body .nav {
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+}
+
+.post-header {
+    margin-bottom: 50px;
+}
